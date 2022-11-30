@@ -1,0 +1,23 @@
+{
+  "name": "challenge_macheight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfeuv/challenge_MACHEIGHT.git"
+  },
+  "author": "Juan Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfeuv/challenge_MACHEIGHT/issues"
+  },
+  "homepage": "https://github.com/juanfeuv/challenge_MACHEIGHT#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
